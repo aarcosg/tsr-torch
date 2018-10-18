@@ -9,6 +9,7 @@ This is the code for the paper
 <br>
 
 The paper addresses the problem of traffic sign classification using a Deep Neural Network which comprises Convolutional layers and Spatial Transfomer Networks. The model reports an accuracy of 99.71% in the [German Traffic Sign Recognition Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=results).
+![Model architecture](cnn3st_architecture.png?raw=True "Model architecture")
 
 We provide:
 - A [pretrained model](#pretrained-model).
