@@ -36,7 +36,7 @@ luarocks install cutorch
 luarocks install cunn
 luarocks install cudnn
 luarocks install https://raw.githubusercontent.com/qassemoquab/stnbhwd/master/stnbhwd-scm-1.rockspec
-luarocks install https://github.com/Kaixhin/nninit/blob/master/rocks/nninit-scm-1.rockspec
+luarocks install https://raw.githubusercontent.com/Kaixhin/nninit/master/rocks/nninit-scm-1.rockspec
 ```
 
 ## Pretrained model
